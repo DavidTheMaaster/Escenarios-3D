@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tatooine.unity
+  isLoaded: 1
+  isActive: 1
